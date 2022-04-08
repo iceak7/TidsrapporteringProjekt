@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidsrapporteringProjekt.API", "TidsrapporteringProjekt.API\TidsrapporteringProjekt.API.csproj", "{D717DB62-BCF7-4691-9D0D-21DD7846535C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidsrapporteringProjekt.Models", "TidsrapporteringProjekt.Models\TidsrapporteringProjekt.Models.csproj", "{1CA9C19D-25F6-4E13-8B38-679EB7610A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D717DB62-BCF7-4691-9D0D-21DD7846535C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D717DB62-BCF7-4691-9D0D-21DD7846535C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D717DB62-BCF7-4691-9D0D-21DD7846535C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D717DB62-BCF7-4691-9D0D-21DD7846535C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA9C19D-25F6-4E13-8B38-679EB7610A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA9C19D-25F6-4E13-8B38-679EB7610A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA9C19D-25F6-4E13-8B38-679EB7610A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA9C19D-25F6-4E13-8B38-679EB7610A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9A89D8-01FB-476C-ABFC-069806F695BA}
+	EndGlobalSection
+EndGlobal
